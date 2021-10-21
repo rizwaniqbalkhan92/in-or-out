@@ -1,0 +1,15 @@
+.cards{
+    width: 100% !important;
+    height: 100vh !important;
+    background-color: aqua !important;
+    display: flex;
+    justify-content: space-around;
+}
+.card1{
+    width: 17% !important;
+    height: 100vh !important;
+}
+.card2{
+    width: 80% !important;
+    height: 100vh !important;
+}
